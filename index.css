@@ -10,7 +10,7 @@ h1{
 } 
 .content1 .pa{
     border:1px solid black;
-    background-color: red;
+    background-color: pink;
     float: right;
      width: 100px;
     height: 25px;
@@ -28,7 +28,7 @@ h1{
 } 
 .content2 .pz{
     border:1px solid black;
-    background-color: blue;
+    background-color: red;
    float: right;
     width: 100px;
     height: 25px;
@@ -47,7 +47,7 @@ h1{
 } 
 .content3 .pe{
     border:1px solid black;
-    background-color: pink;
+    background-color: yellow;
     float: right;
     width: 100px;
     height: 25px;
